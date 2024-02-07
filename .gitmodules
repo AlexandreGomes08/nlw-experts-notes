@@ -1,0 +1,3 @@
+[submodule "nlw-expert-notes"]
+	path = nlw-expert-notes
+	url = https://github.com/AlexandreGomes08/nlw-experts-notes.git
